@@ -1,2 +1,2 @@
 # pygame-Animation
-An animation class in pygame
+You can animate your images in pygame using the animated_sprite.py file. Example is in animate.py
